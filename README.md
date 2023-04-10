@@ -2,7 +2,7 @@
 
 project deployed in vercel : [https://image-generator-app.vercel.app/]
 
-# Image-Generator-App
+# The App
 
 Image Generator App is a web application built with React that generates random images based on user preferences. The application uses OpenAI's DALL-E API to generate unique and creative images based on user input.
 
