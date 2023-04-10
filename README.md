@@ -1,2 +1,1 @@
-# ImageGenerator
 # Image-Generator-App
