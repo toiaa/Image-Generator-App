@@ -1,6 +1,6 @@
 # Image-Generator-App
 
-project deployed in vercel : image-generator-78ksvb83p-toiaa.vercel.app
+project deployed in vercel : [https://image-generator-app.vercel.app/]
 
 # Image-Generator-App
 
