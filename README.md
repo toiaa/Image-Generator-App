@@ -27,7 +27,7 @@ To install and run the application, follow these steps:
 
 ### Keep in mind: This project its deployed so:
 
-- Frontend: image-generator-78ksvb83p-toiaa.vercel.app
+- Frontend: https://image-generator-app.vercel.app/
 - Backend: https://image-generator-app-1xvs.onrender.com
 - If you want to run it in a your local host you will need to change the folowing files:
 - client/src/pages/CreatePost.jsx : change lines 22 asn 49 to "http://localhost:8080/api/v1/dalle",
